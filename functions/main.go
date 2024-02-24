@@ -35,4 +35,10 @@ func main() {
 	rest := result[1:]
 
 	fmt.Println(first, rest)
+
+	x := func(x int) int {
+		return x * 2
+	}(8)
+
+	fmt.Println(x)
 }

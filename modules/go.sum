@@ -1,0 +1,6 @@
+github.com/denissanchez/mygolib v0.0.0-20240224015432-c12f52ff5e0c h1:LaDc+KOWem6lmH5G4LEzLmfkqL09l2KpDXY1XueN9tk=
+github.com/denissanchez/mygolib v0.0.0-20240224015432-c12f52ff5e0c/go.mod h1:e2/CaAI9o/YE78+tl6W+HqLMFzjN+vgyAdLi0dXW4R4=
+github.com/donvito/hellomod v1.0.1 h1:tOU3KDwvrGW7QUHXYQnk6YUD+92aTsRmJItJTD9f4I4=
+github.com/donvito/hellomod v1.0.1/go.mod h1:DuOSvrBCwGkjX0WS5ohdpC/q67fS0Mde3LEM+2jeHSw=
+github.com/donvito/hellomod/v2 v2.0.0 h1:HVot/mBxIZnlHDfHFc+C3xgQw8fUvcD+NH+PMQgw0YQ=
+github.com/donvito/hellomod/v2 v2.0.0/go.mod h1:reCGCr/bqssULXSB7Zx+QpY3oO+PjFahV3ZRmiaJazw=
